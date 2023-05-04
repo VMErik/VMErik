@@ -1,3 +1,6 @@
+
+![](https://github.com/VMErik/VMErik/blob/main/LogoVM.PNG?raw=true)
+
 # 👋 Hi, I’m @VMErik
 - 👀 I’m interested in finding and meeting new development challenges with emerging technologies.
 - 🌱 I’m currently learning mobile application development in Flutter. Integration with NodeJS and postgresSql
