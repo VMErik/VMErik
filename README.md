@@ -44,7 +44,7 @@ In this place you can find some of the basic test exercises and some others a li
 # Code
 
 #### Challenges
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+ JavaScript Challenges ![JavaScript](https://github.com/VMErik/javascript_challenges)
 
 
 #### Projects
