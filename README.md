@@ -44,8 +44,9 @@ In this place you can find some of the basic test exercises and some others a li
 # Code
 
 #### Challenges
- JavaScript Challenges ![JavaScript](https://github.com/VMErik/javascript_challenges)
-
+***
+[JavaScript](https://github.com/VMErik/javascript_challenges)
+***
 
 #### Projects
 
