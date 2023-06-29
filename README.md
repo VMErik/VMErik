@@ -41,6 +41,10 @@ In this place you can find some of the basic test exercises and some others a li
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 
 
+# My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VMErik&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VMErik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats
 # Code
 
 #### Challenges
